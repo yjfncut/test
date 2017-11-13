@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="concat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/concat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
