@@ -27,7 +27,7 @@ public class pinzhuo {
 			lkr.add(new keren(rs,xf));
 		}
 		Collections.sort(lkr);
-		555
+
 		for(int i=0;i<n;i++){
 			for(int j=lkr.size()-1;j>=0;j--){
 				if(zhuozi[i]>=lkr.get(j).getRenshu()){

@@ -13,7 +13,7 @@ public class sxh {
 		Scanner sc=new Scanner(System.in);
 		Stack s=new Stack();
 		System.out.print(s.peek());
-		int[][] a=new int[][];
+//		int[][] a=new int[][];
 		
 	}
 	

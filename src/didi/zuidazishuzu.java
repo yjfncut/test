@@ -14,7 +14,6 @@ public class zuidazishuzu {
 		for(int i=0;i<n;i++){
 			array[i]=sc.nextInt();
 		}
-		List<Integer>
 
 	}
 

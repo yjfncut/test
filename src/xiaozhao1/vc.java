@@ -9,7 +9,6 @@ public class vc {
 	 */
 	public static void main(String[] args) {
 		Vector<Integer> v=new Vector();
-		v.
 
 	}
 

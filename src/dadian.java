@@ -17,7 +17,6 @@ public class dadian {
 		int mm=(int) (time/60);
 		time=time%60;
 		int ss=(int)(time+0.5);
-234
 		System.out.print(hh/10);
 		System.out.print(hh%10);
 		System.out.print(":");

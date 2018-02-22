@@ -11,11 +11,11 @@ public class aa {
 	}
 	 public int[] insertionSort(int[] A, int n) {
 	        for(int i=1;i<n;i++){
-	            flag=A[i];
+	            int flag = A[i];
 	            for(int j=i;j>0&&A[j-1]>flag;j--){
 	               A[j]=A[j-1];
 	            }
-	            A[j]=flag;
+	            A[i]=flag;
 	        }
 	        return A;
 	    }

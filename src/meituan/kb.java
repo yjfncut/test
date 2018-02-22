@@ -26,9 +26,9 @@ public class kb {
 		
 		
 		
-		int cha=n-n2;
+		int cha=n-2;
 		if(cha>0){
-			cha=n-n2;
+			cha=n-2;
 			if(cha<180){
 				System.out.print("-"+cha);
 			}else{

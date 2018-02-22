@@ -23,10 +23,11 @@ public class xzc {
                     flag=A[j];
                     idx=j;
                 }
+                tmp=A[j];
+                A[j]=A[i];
+                A[i]=tmp;
             }
-            tmp=A[j];
-            A[j]=A[i];
-            A[i]=tmp;
+            
             
         }
         return A;
